@@ -166,7 +166,10 @@ net = torch.hub.load('milesial/Pytorch-UNet', 'unet_carvana', pretrained=True, s
 ```
 Available scales are 0.5 and 1.0.
 
-## Data
+## Data(In my Baidu NetDisk)
+Baidu Net
+Baidu NetDisk: Pytorch-UNet-initial
+
 The Carvana data is available on the [Kaggle website](https://www.kaggle.com/c/carvana-image-masking-challenge/data).
 
 You can also download it using the helper script:
