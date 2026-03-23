@@ -1,5 +1,7 @@
-matplotlib==3.6.2
-numpy==1.23.5
-Pillow==9.3.0
-tqdm==4.64.1
-wandb==0.13.5
+matplotlib==3.10.8
+numpy==2.4.3
+Pillow==12.1.1
+torch==2.10.0+cu128
+torchvision==0.25.0+cu128
+tqdm==4.67.3
+wandb==0.25.1
